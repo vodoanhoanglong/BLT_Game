@@ -1,0 +1,9 @@
+﻿  main.cpp
+D:\VS\Netwalk\Netwalk\main.cpp(26,27): warning C4018: '<': signed/unsigned mismatch
+D:\VS\Netwalk\Netwalk\main.cpp(89,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS\Netwalk\Netwalk\main.cpp(169,75): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Netwalk\Netwalk\main.cpp(173,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Netwalk\Netwalk\main.cpp(173,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Netwalk\Netwalk\main.cpp(180,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Netwalk\Netwalk\main.cpp(180,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Netwalk.vcxproj -> D:\VS\Netwalk\Debug\Netwalk.exe

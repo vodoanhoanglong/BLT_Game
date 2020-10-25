@@ -1,0 +1,74 @@
+﻿  main.cpp
+D:\VS\Outrun\Outrun\main.cpp(8,18): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(14,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(14,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(15,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(15,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(16,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(16,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(17,41): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(17,35): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Outrun\Outrun\main.cpp(59,45): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+D:\VS\Outrun\Outrun\main.cpp(93,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(96,40): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(100,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(101,58): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(102,44): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(104,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(125,68): warning C4305: '+=': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(126,67): warning C4305: '-=': truncation from 'double' to 'float'
+D:\VS\Outrun\Outrun\main.cpp(140,18): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(151,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(155,22): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(157,21): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(165,53): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(165,38): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(166,70): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(166,62): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(166,57): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(166,49): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(166,41): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(166,36): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(167,59): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(167,54): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(167,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(167,44): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(167,39): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Outrun\Outrun\main.cpp(167,34): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Outrun.vcxproj -> D:\VS\Outrun\Debug\Outrun.exe

@@ -1,0 +1,10 @@
+﻿  main.cpp
+D:\VS\Project2\Project2\main.cpp(38,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS\Project2\Project2\main.cpp(50,30): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\Project2\Project2\main.cpp(72,59): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS\Project2\Project2\main.cpp(126,34): warning C4305: '=': truncation from 'double' to 'float'
+D:\VS\Project2\Project2\main.cpp(137,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Project2\Project2\main.cpp(137,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Project2\Project2\main.cpp(145,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Project2\Project2\main.cpp(145,25): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Project2.vcxproj -> D:\VS\Project2\Debug\Project2.exe

@@ -1,0 +1,23 @@
+﻿  main.cpp
+D:\VS\Racing\Racing\main.cpp(28,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(29,18): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(31,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(31,1): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(58,24): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(59,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(60,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(65,20): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\Racing\Racing\main.cpp(65,31): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\Racing\Racing\main.cpp(66,27): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\Racing\Racing\main.cpp(115,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(116,42): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(117,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(118,42): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(119,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Racing\Racing\main.cpp(120,35): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Racing\Racing\main.cpp(128,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Racing\Racing\main.cpp(129,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Racing\Racing\main.cpp(131,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(131,33): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Racing\Racing\main.cpp(139,49): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Racing.vcxproj -> D:\VS\Racing\Debug\Racing.exe

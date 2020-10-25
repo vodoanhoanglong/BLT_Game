@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\VS\Bejeweled\Bejeweled\main.cpp(26,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS\Bejeweled\Bejeweled\main.cpp(161,40): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Bejeweled\Bejeweled\main.cpp(161,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Bejeweled\Bejeweled\main.cpp(162,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Bejeweled\Bejeweled\main.cpp(162,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Bejeweled.vcxproj -> D:\VS\Bejeweled\Debug\Bejeweled.exe

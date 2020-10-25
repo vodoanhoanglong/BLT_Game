@@ -1,0 +1,14 @@
+﻿  main.cpp
+D:\VS\Xonix\Xonix\main.cpp(40,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS\Xonix\Xonix\main.cpp(59,34): warning C4305: 'initializing': truncation from 'double' to 'float'
+D:\VS\Xonix\Xonix\main.cpp(137,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Xonix\Xonix\main.cpp(137,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Xonix\Xonix\main.cpp(142,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Xonix\Xonix\main.cpp(142,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Xonix\Xonix\main.cpp(148,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Xonix\Xonix\main.cpp(148,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 76 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Xonix.vcxproj -> D:\VS\Xonix\Release\Xonix.exe

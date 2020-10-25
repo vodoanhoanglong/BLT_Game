@@ -1,0 +1,20 @@
+﻿  Bird.cpp
+  main.cpp
+D:\Flappy-bird-master\main.cpp(41,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\Flappy-bird-master\main.cpp(77,20): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Flappy-bird-master\main.cpp(80,26): warning C4018: '<': signed/unsigned mismatch
+D:\Flappy-bird-master\main.cpp(99,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Flappy-bird-master\main.cpp(100,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Flappy-bird-master\main.cpp(104,40): warning C4018: '<': signed/unsigned mismatch
+D:\Flappy-bird-master\main.cpp(108,32): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Flappy-bird-master\main.cpp(109,32): warning C4305: 'argument': truncation from 'double' to 'float'
+  Object.cpp
+  Generating Code...
+main.obj : error LNK2005: "public: __thiscall Bird::Bird(void)" (??0Bird@@QAE@XZ) already defined in Bird.obj
+main.obj : error LNK2005: "public: __thiscall Bird::~Bird(void)" (??1Bird@@QAE@XZ) already defined in Bird.obj
+main.obj : error LNK2005: "public: void __thiscall Bird::operator+(float)" (??HBird@@QAEXM@Z) already defined in Bird.obj
+main.obj : error LNK2005: "public: class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall Bird::score_return(void)" (?score_return@Bird@@QAE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@XZ) already defined in Bird.obj
+Object.obj : error LNK2005: "public: __thiscall Object::Object(float,bool)" (??0Object@@QAE@M_N@Z) already defined in main.obj
+Object.obj : error LNK2005: "public: __thiscall Object::~Object(void)" (??1Object@@QAE@XZ) already defined in main.obj
+Object.obj : error LNK2005: "public: void __thiscall Object::operator+(float)" (??HObject@@QAEXM@Z) already defined in main.obj
+D:\VS\Project1\Debug\Project1.exe : fatal error LNK1169: one or more multiply defined symbols found

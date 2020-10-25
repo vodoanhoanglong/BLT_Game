@@ -1,0 +1,7 @@
+﻿  main.cpp
+D:\VS\Fifteen-Puzzlee\Fifteen-Puzzlee\main.cpp(56,50): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Fifteen-Puzzlee\Fifteen-Puzzlee\main.cpp(56,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Fifteen-Puzzlee\Fifteen-Puzzlee\main.cpp(59,54): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Fifteen-Puzzlee\Fifteen-Puzzlee\main.cpp(75,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Fifteen-Puzzlee\Fifteen-Puzzlee\main.cpp(75,41): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Fifteen-Puzzlee.vcxproj -> D:\VS\Fifteen-Puzzlee\Debug\Fifteen-Puzzlee.exe

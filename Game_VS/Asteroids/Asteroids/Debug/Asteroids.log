@@ -1,0 +1,28 @@
+﻿  main.cpp
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(29,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(29,28): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(66,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(66,20): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(68,13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(95,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(96,25): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(149,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(150,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(154,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(155,1): warning C4305: '*=': truncation from 'double' to 'float'
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(186,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(206,47): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(207,53): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(208,49): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(219,59): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(240,49): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(240,43): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(262,56): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(262,50): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(271,73): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(271,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(271,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(283,61): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(283,55): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\Asteroids\Asteroids\main.cpp(304,54): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  Asteroids.vcxproj -> D:\VS\Game_VS\Asteroids\Debug\Asteroids.exe

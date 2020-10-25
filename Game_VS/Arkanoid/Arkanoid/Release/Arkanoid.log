@@ -1,0 +1,11 @@
+﻿  main.cpp
+D:\VS\Game_VS\Arkanoid\Arkanoid\main.cpp(7,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+D:\VS\Game_VS\Arkanoid\Arkanoid\main.cpp(28,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Arkanoid\Arkanoid\main.cpp(28,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\Arkanoid\Arkanoid\main.cpp(64,81): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Generating code
+  74 of 77 functions (96.1%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Arkanoid.vcxproj -> D:\VS\Game_VS\Arkanoid\Release\Arkanoid.exe
