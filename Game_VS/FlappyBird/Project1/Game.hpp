@@ -16,7 +16,7 @@ namespace Sonar
 		AssetManager assets;
 		InputManager input;
 	};
-
+        //https://cppdeveloper.com/c-nang-cao/smart-pointers-stdshared_ptr-trong-c/
 	typedef std::shared_ptr<GameData> GameDataRef;
 
 	class Game
