@@ -1,0 +1,160 @@
+﻿  AssetManager.cpp
+  Bird.cpp
+  Collision.cpp
+  Flash.cpp
+D:\VS\Game_VS\FlappyBird\Project1\Flash.cpp(7,94): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\Flash.cpp(7,67): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\Flash.cpp(21,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\FlappyBird\Project1\Flash.cpp(25,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\FlappyBird\Project1\Flash.cpp(33,14): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\VS\Game_VS\FlappyBird\Project1\Flash.cpp(37,13): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+D:\VS\Game_VS\FlappyBird\Project1\Game.cpp(12,13): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  GameOverState.cpp
+D:\VS\Game_VS\FlappyBird\Project1\GameOverState.cpp(59,164): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\GameOverState.cpp(60,206): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\GameOverState.cpp(67,110): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\GameOverState.cpp(67,76): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\GameOverState.cpp(74,114): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\GameOverState.cpp(74,80): warning C4244: 'argument': conversion from 'double' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+  GameState.cpp
+D:\VS\Game_VS\FlappyBird\Project1\GameState.cpp(115,22): warning C4018: '<': signed/unsigned mismatch
+D:\VS\Game_VS\FlappyBird\Project1\GameState.cpp(129,22): warning C4018: '<': signed/unsigned mismatch
+D:\VS\Game_VS\FlappyBird\Project1\GameState.cpp(145,23): warning C4018: '<': signed/unsigned mismatch
+  HUD.cpp
+D:\VS\Game_VS\FlappyBird\Project1\HUD.cpp(19,96): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\HUD.cpp(19,65): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  InputManager.cpp
+D:\VS\Game_VS\FlappyBird\Project1\InputManager.cpp(11,135): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\InputManager.cpp(11,103): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\InputManager.cpp(11,75): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\InputManager.cpp(11,51): warning C4244: 'argument': conversion from 'const T' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+          and
+          [
+              T=int
+          ]
+  Land.cpp
+D:\VS\Game_VS\FlappyBird\Project1\Land.cpp(29,50): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+  main.cpp
+  MainMenuState.cpp
+  Pipe.cpp
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(18,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(27,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(27,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(36,55): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(36,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(46,51): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(53,22): warning C4018: '<': signed/unsigned mismatch
+D:\VS\Game_VS\FlappyBird\Project1\Pipe.cpp(68,21): warning C4018: '<': signed/unsigned mismatch
+  SplashState.cpp
+  StateMachine.cpp
+  Generating Code...
+  Project1.vcxproj -> D:\VS\Game_VS\FlappyBird\Debug\Project1.exe
